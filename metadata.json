@@ -1,0 +1,6 @@
+{
+  "name": "TWS Gym | Build Your Strongest Self",
+  "description": "TWS is an elite fitness community engineered for strength, discipline, and relentless consistency. Experience modern athletic training, expert coaching, and 24/7 access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
